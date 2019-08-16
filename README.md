@@ -12,3 +12,7 @@ denotes the excess return of ZZ500.
 You can also trade a portfolio. See what would happen if you traded 50 stocks in random everday, from 2010 to 2018.
 
 ![Test](https://github.com/Hilbert1984/Back-test/blob/master/figure/random.jpg)
+
+We also provide user interface for convenient use.
+
+![Test](https://github.com/Hilbert1984/Back-test/blob/master/figure/UI.jpg)
