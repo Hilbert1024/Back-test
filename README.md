@@ -9,7 +9,7 @@ denotes the excess return of ZZ500.
 
 ![Test](https://github.com/Hilbert1984/Back-test/blob/master/figure/000001.SZ.jpg)
 
-You can also trade a portfolio. See what would happen if you traded 50 stocks in random everday, from 2010 to 2018.
+You can also trade a portfolio. See what would happen if you traded 50 stocks in random everday, from 2010 to 2018. Daily position list and limit-down list will be displayed in excel/model_name.xlsx and excel/model_name_limitdown.xlsx separately.
 
 ![Test](https://github.com/Hilbert1984/Back-test/blob/master/figure/random.jpg)
 
