@@ -16,5 +16,3 @@ You can also trade a portfolio. See what would happen if you traded 50 stocks in
 We also provide user interface for convenient use.
 
 ![Test](https://github.com/Hilbert1984/Back-test/blob/master/figure/UI.png)
-
-test!
